@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Defines a type-annotated function safely_get_value."""
 from typing import Any, Mapping, TypeVar, Union
